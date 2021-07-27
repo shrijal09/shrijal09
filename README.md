@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://raw.githubusercontent.com/SujanSharma07/SujanSharma07/master/Assets/Developer.gif"/>
+<img align="right" src="https://raw.githubusercontent.com/shrijal09/shrijal09/master/Assets/Developer.gif"/>
 
 # 💬 Ask me about: #
 <h3 style="color:blue;">Any of My Repositories or Related Projects </h3> 
